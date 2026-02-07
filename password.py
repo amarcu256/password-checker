@@ -36,5 +36,3 @@ def password_checker(password):
     
     #in all successful scenarios, it returns a true value
     return True
-
-print(password_checker("AU264bNm"))
